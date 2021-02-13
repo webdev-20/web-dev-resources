@@ -6,6 +6,8 @@
 
 [Frontend Mentor](https://www.frontendmentor.io)
 
+[Microsoft's Repo (Vanilla CSS/JS/HTML)](https://github.com/microsoft/web-dev-for-beginners)
+
 
 ## Paid
 [The Complete 2020 Web Development Bootcamp - Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
