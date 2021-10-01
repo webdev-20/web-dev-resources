@@ -16,6 +16,8 @@
 
 [The Web Developer Bootcamp 2020 - Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp/)
 
+[Beginner Javascript - Wes Bos](https://beginnerjavascript.com/)
+
 ## Youtube
 
 [The Net Ninja](https://www.youtube.com/c/TheNetNinja/)
